@@ -1,4 +1,3 @@
-import Button from "./ui/button";
 import { FiMenu } from "react-icons/fi";
            
 import logo from "./assets/p_logo.png" 
